@@ -1,2 +1,2 @@
-export * from "./classi.lib/messages"
-export * from "./classi.lib/default"
+export * from "./lib/messages"
+export * from "./lib/default"
