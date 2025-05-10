@@ -1,0 +1,12 @@
+{
+  "name": "classi.ts",
+  "version": "1.0.0",
+  "main": "classi.js",
+  "scripts": {
+    "rm":"powershell -Command \"Get-ChildItem -Recurse -Filter *.js | Remove-Item -Force\"",
+    "build":"tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
